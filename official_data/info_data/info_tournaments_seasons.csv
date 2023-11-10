@@ -1,0 +1,58 @@
+"seasonId","seasonName","tournamentId","tournamentRegionId","tournamentRegionCode","tournamentRegionName","tournamentName","tournamentShortName"
+8618,"2021/2022",2,252,gb-eng,England,Premier League,EPL
+8228,"2020/2021",2,252,gb-eng,England,Premier League,EPL
+7811,"2019/2020",2,252,gb-eng,England,Premier League,EPL
+8735,"2021/2022",5,108,it,Italy,Serie A,ISA
+8330,"2020/2021",5,108,it,Italy,Serie A,ISA
+7928,"2019/2020",5,108,it,Italy,Serie A,ISA
+8681,"2021/2022",4,206,es,Spain,LaLiga,SLL
+8321,"2020/2021",4,206,es,Spain,LaLiga,SLL
+7889,"2019/2020",4,206,es,Spain,LaLiga,SLL
+8667,"2021/2022",3,81,de,Germany,Bundesliga,GB
+8279,"2020/2021",3,81,de,Germany,Bundesliga,GB
+7872,"2019/2020",3,81,de,Germany,Bundesliga,GB
+8671,"2021/2022",22,74,fr,France,Ligue 1,FL1
+8185,"2020/2021",22,74,fr,France,Ligue 1,FL1
+7814,"2019/2020",22,74,fr,France,Ligue 1,FL1
+8714,"2021/2022",21,177,pt,Portugal,Liga Portugal,PLN
+7893,"2019/2020",21,177,pt,Portugal,Liga Portugal,PLN
+8625,"2021/2022",13,155,nl,Netherlands,Eredivisie,NE
+8187,"2020/2021",13,155,nl,Netherlands,Eredivisie,NE
+7815,"2019/2020",13,155,nl,Netherlands,Eredivisie,NE
+8639,"2021/2022",77,182,ru,Russia,Premier League,RPL
+8242,"2020/2021",77,182,ru,Russia,Premier League,RPL
+7802,"2019/2020",77,182,ru,Russia,Premier League,RPL
+8555,"2021",95,31,br,Brazil,Brasileirão,BSA
+8158,"2020",95,31,br,Brazil,Brasileirão,BSA
+7683,"2019",95,31,br,Brazil,Brasileirão,BSA
+8883,"2022",85,233,us,USA,Major League Soccer,UMLS
+8545,"2021",85,233,us,USA,Major League Soccer,UMLS
+8055,"2020",85,233,us,USA,Major League Soccer,UMLS
+8732,"2021/2022",17,225,tr,Turkey,Super Lig,TS
+8313,"2020/2021",17,225,tr,Turkey,Super Lig,TS
+7912,"2019/2020",17,225,tr,Turkey,Super Lig,TS
+8619,"2021/2022",7,252,gb-eng,England,Championship,EC
+8304,"2020/2021",7,252,gb-eng,England,Championship,EC
+7840,"2019/2020",7,252,gb-eng,England,Championship,EC
+8636,"2021/2022",20,253,gb-sct,Scotland,Premiership,SP
+8191,"2020/2021",20,253,gb-sct,Scotland,Premiership,SP
+8620,"2021/2022",8,252,gb-eng,England,League One,EL1
+8305,"2020/2021",8,252,gb-eng,England,League One,EL1
+7841,"2019/2020",8,252,gb-eng,England,League One,EL1
+8621,"2021/2022",9,252,gb-eng,England,League Two,EL2
+8306,"2020/2021",9,252,gb-eng,England,League Two,EL2
+7842,"2019/2020",9,252,gb-eng,England,League Two,EL2
+9081,"2022",68,11,ar,Argentina,Liga Profesional,ALP
+8679,"2021",68,11,ar,Argentina,Liga Profesional,ALP
+7905,"2019/2020",68,11,ar,Argentina,Liga Profesional,ALP
+8627,"2021/2022",18,22,be,Belgium,Jupiler Pro League,BJL
+8197,"2020/2021",18,22,be,Belgium,Jupiler Pro League,BJL
+8668,"2021/2022",6,81,de,Germany,"2. Bundesliga",GB2
+8280,"2020/2021",6,81,de,Germany,"2. Bundesliga",GB2
+7873,"2019/2020",6,81,de,Germany,"2. Bundesliga",GB2
+8623,"2021/2022",12,250,ceu,Europe,Champions League,UCL
+8177,"2020/2021",12,250,ceu,Europe,Champions League,UCL
+7804,"2019/2020",12,250,ceu,Europe,Champions League,UCL
+8741,"2021/2022",30,250,ceu,Europe,Europa League,UEL
+8178,"2020/2021",30,250,ceu,Europe,Europa League,UEL
+8663,"2021/2022",29,252,gb-eng,England,League Cup,EFLC

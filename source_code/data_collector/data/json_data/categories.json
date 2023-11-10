@@ -1,0 +1,57 @@
+{
+    "tackles": [
+        "success"
+    ],
+    "interception": [
+        "success"
+    ],
+    "fouls": [
+        "type"
+    ],
+    "cards": [
+        "type"
+    ],
+    "offsides": [
+        "type"
+    ],
+    "clearances": [
+        "success"
+    ],
+    "blocks": [
+        "type"
+    ],
+    "saves": [
+        "shotzone"
+    ],
+    "shots": [
+        "zones",
+        "situations",
+        "accuracy",
+        "bodyparts"
+    ],
+    "goals": [
+        "zones",
+        "situations",
+        "bodyparts"
+    ],
+    "dribbles": [
+        "success"
+    ],
+    "possession-loss": [
+        "type"
+    ],
+    "aerial": [
+        "success"
+    ],
+    "passes": [
+        "length",
+        "type"
+    ],
+    "key-passes": [
+        "length",
+        "type"
+    ],
+    "assists": [
+        "type"
+    ]
+}

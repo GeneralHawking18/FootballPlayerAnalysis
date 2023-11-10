@@ -1,0 +1,443 @@
+"teamId","teamName","teamRegionName"
+26,Liverpool,England
+167,Manchester City,England
+30,Tottenham,England
+162,Crystal Palace,England
+189,Brentford,England
+32,Manchester United,England
+15,Chelsea,England
+13,Arsenal,England
+23,Newcastle,England
+29,West Ham,England
+14,Leicester,England
+184,Burnley,England
+19,Leeds,England
+211,Brighton,England
+27,Watford,England
+161,Wolverhampton,England
+31,Everton,England
+18,Southampton,England
+24,Aston Villa,England
+168,Norwich,England
+175,West Bromwich,England
+163,Sheffield United,England
+170,Fulham,England
+183,Bournemouth,England
+86,Udinese,Italy
+300,Atalanta,Italy
+78,Cagliari,Italy
+278,Genoa,Italy
+80,AC Milan,Italy
+276,Napoli,Italy
+73,Fiorentina,Italy
+75,Inter,Italy
+77,Lazio,Italy
+87,Juventus,Italy
+143,Salernitana,Italy
+84,Roma,Italy
+271,Sampdoria,Italy
+76,Verona,Italy
+85,Venezia,Italy
+2889,Sassuolo,Italy
+71,Bologna,Italy
+72,Torino,Italy
+272,Empoli,Italy
+1501,Spezia,Italy
+779,Crotone,Italy
+24341,Parma Calcio 1913,Italy
+1503,Benevento,Italy
+1502,SPAL 2013,Italy
+79,Lecce,Italy
+144,Brescia,Italy
+60,Deportivo Alaves,Spain
+52,Real Madrid,Spain
+839,Villarreal,Spain
+63,Atletico Madrid,Spain
+832,Levante,Spain
+55,Valencia,Spain
+65,Barcelona,Spain
+70,Espanyol,Spain
+62,Celta Vigo,Spain
+51,Mallorca,Spain
+68,Real Sociedad,Spain
+67,Sevilla,Spain
+819,Getafe,Spain
+925,Granada,Spain
+131,Osasuna,Spain
+1354,Cadiz,Spain
+833,Elche,Spain
+53,Athletic Bilbao,Spain
+54,Real Betis,Spain
+64,Rayo Vallecano,Spain
+5006,SD Huesca,Spain
+824,Eibar,Spain
+58,Real Valladolid,Spain
+825,Leganes,Spain
+7614,RB Leipzig,Germany
+37,Bayern Munich,Germany
+33,Wolfsburg,Germany
+44,Borussia Dortmund,Germany
+36,Bayer Leverkusen,Germany
+1730,Augsburg,Germany
+219,Mainz 05,Germany
+41,VfB Stuttgart,Germany
+50,Freiburg,Germany
+134,Borussia M.Gladbach,Germany
+282,FC Koln,Germany
+796,Union Berlin,Germany
+1211,Hoffenheim,Germany
+40,Arminia Bielefeld,Germany
+47,Hertha Berlin,Germany
+45,Eintracht Frankfurt,Germany
+89,Greuther Fuerth,Germany
+109,Bochum,Germany
+42,Werder Bremen,Germany
+39,Schalke 04,Germany
+1150,Fortuna Duesseldorf,Germany
+810,Paderborn,Germany
+304,Paris Saint-Germain,France
+148,Strasbourg,France
+313,Rennes,France
+311,Montpellier,France
+228,Lyon,France
+950,Reims,France
+309,Lens,France
+607,Lille,France
+249,Marseille,France
+302,Nantes,France
+2332,Brest,France
+614,Angers,France
+613,Nice,France
+315,Bordeaux,France
+145,Saint-Etienne,France
+248,Monaco,France
+229,Troyes,France
+314,Metz,France
+146,Lorient,France
+941,Clermont Foot,France
+1364,Dijon,France
+245,Nimes,France
+151,Amiens,France
+246,Toulouse,France
+296,Sporting CP,Portugal
+299,Benfica,Portugal
+288,Braga,Portugal
+786,Pacos de Ferreira,Portugal
+297,FC Porto,Portugal
+8071,Tondela,Portugal
+108,Moreirense,Portugal
+251,Santa Clara,Portugal
+122,Boavista,Portugal
+5948,Arouca,Portugal
+290,Gil Vicente,Portugal
+935,Famalicao,Portugal
+1463,Portimonense,Portugal
+107,Vitoria de Guimaraes,Portugal
+264,Maritimo,Portugal
+2188,Estoril,Portugal
+292,B-SAD,Portugal
+2899,Vizela,Portugal
+298,Vitoria de Setubal,Portugal
+121,Rio Ave,Portugal
+785,Aves,Portugal
+130,Ajax,Netherlands
+243,AZ Alkmaar,Netherlands
+129,PSV Eindhoven,Netherlands
+303,Sparta Rotterdam,Netherlands
+870,Heracles,Netherlands
+287,SC Heerenveen,Netherlands
+242,Fortuna Sittard,Netherlands
+241,Cambuur,Netherlands
+128,FC Utrecht,Netherlands
+116,NEC Nijmegen,Netherlands
+114,RKC Waalwijk,Netherlands
+113,Twente,Netherlands
+256,Feyenoord,Netherlands
+255,Vitesse,Netherlands
+868,PEC Zwolle,Netherlands
+758,FC Groningen,Netherlands
+115,Willem II,Netherlands
+874,Go Ahead Eagles,Netherlands
+765,VVV-Venlo,Netherlands
+875,FC Emmen,Netherlands
+764,ADO Den Haag,Netherlands
+8726,PFC Sochi,Russia
+847,CSKA Moscow,Russia
+8753,Arsenal Tula,Russia
+562,FC Rostov,Russia
+560,Zenit St. Petersburg,Russia
+2059,Khimki,Russia
+668,Lokomotiv Moscow,Russia
+840,Spartak Moscow,Russia
+846,Dinamo Moscow,Russia
+7164,FC Krasnodar,Russia
+997,Krylya Sovetov Samara,Russia
+4174,Ural,Russia
+9004,FC Ufa,Russia
+2407,FK Akhmat,Russia
+2057,Rubin Kazan,Russia
+23722,Nizhny Novgorod,Russia
+9070,FC Tambov,Russia
+8734,FC Rotor Volgograd,Russia
+5460,FC Orenburg,Russia
+1243,Athletico Paranaense,Brazil
+1234,Palmeiras,Brazil
+1235,Atletico MG,Brazil
+8865,Chapecoense AF,Brazil
+1239,Flamengo,Brazil
+1221,Bahia,Brazil
+1244,Gremio,Brazil
+1219,Internacional,Brazil
+8938,Cuiaba,Brazil
+1228,America MG,Brazil
+1224,Sao Paulo,Brazil
+1241,Santos FC,Brazil
+1220,Juventude,Brazil
+1232,Fluminense,Brazil
+1237,Corinthians,Brazil
+2065,Fortaleza,Brazil
+5438,Red Bull Bragantino,Brazil
+6368,Atletico GO,Brazil
+1231,Sport Recife,Brazil
+7334,Ceara,Brazil
+1227,Botafogo RJ,Brazil
+1218,Goias,Brazil
+1226,Vasco da Gama,Brazil
+1236,Coritiba,Brazil
+4619,Avai FC,Brazil
+9915,CS Alagoano,Brazil
+1230,Cruzeiro,Brazil
+27482,Los Angeles FC,USA
+11135,CF Montreal,Canada
+29664,Austin FC,USA
+1114,New England Revolution,USA
+1117,LA Galaxy,USA
+27497,Nashville SC,USA
+1120,Colorado Rapids,USA
+1113,Columbus Crew,USA
+26666,Atlanta United,USA
+11134,Vancouver Whitecaps,Canada
+19584,New York City FC,USA
+11133,Portland Timbers,USA
+1116,Sporting Kansas City,USA
+2948,FC Dallas,USA
+2947,Real Salt Lake,USA
+24949,FC Cincinnati,USA
+8586,Philadelphia Union,USA
+5973,Seattle Sounders FC,USA
+1118,Chicago Fire FC,USA
+9293,Minnesota United,USA
+28925,Inter Miami CF,USA
+30105,Charlotte FC,USA
+1122,San Jose Earthquakes,USA
+3624,Houston Dynamo FC,USA
+10221,Orlando City,USA
+1119,DC United,USA
+4186,Toronto FC,Canada
+1121,New York Red Bulls,USA
+3475,Kasimpasa,Turkey
+2319,Gaziantep FK,Turkey
+3478,Giresunspor,Turkey
+4947,Hatayspor,Turkey
+2200,Kayserispor,Turkey
+227,Antalyaspor,Turkey
+226,Trabzonspor,Turkey
+223,Fenerbahce,Turkey
+2198,Adana Demirspor,Turkey
+2006,Konyaspor,Turkey
+2003,Sivasspor,Turkey
+294,Galatasaray,Turkey
+5732,Yeni Malatyaspor,Turkey
+2719,Fatih Karagumruk,Turkey
+133,Besiktas,Turkey
+222,Altay,Turkey
+254,Goztepe,Turkey
+3473,Alanyaspor,Turkey
+2201,Istanbul Basaksehir,Turkey
+750,Rizespor,Turkey
+293,Ankaragucu,Turkey
+132,Denizlispor,Turkey
+10533,Erzurumspor FK,Turkey
+156,Genclerbirligi,Turkey
+93,Blackpool,England
+142,Barnsley,England
+174,Nottingham Forest,England
+192,Millwall,England
+158,Blackburn,England
+166,Huddersfield,England
+17,Coventry,England
+182,Bristol City,England
+188,Cardiff,Wales
+171,Queens Park Rangers,England
+95,Luton,England
+94,Reading,England
+157,Birmingham,England
+96,Stoke,England
+259,Swansea,Wales
+215,Peterborough,England
+21,Middlesbrough,England
+181,Preston,England
+214,Hull,England
+20,Derby,England
+196,Wycombe,England
+210,Rotherham,England
+25,Sheffield Wednesday,England
+194,Wigan,England
+160,Charlton,England
+320,Hibernian,Scotland
+305,St. Johnstone,Scotland
+106,St. Mirren,Scotland
+787,Livingston,Scotland
+177,Dundee FC,Scotland
+105,Aberdeen,Scotland
+178,Kilmarnock,Scotland
+306,Rangers,Scotland
+103,Celtic,Scotland
+179,Motherwell,Scotland
+281,Dundee United,Scotland
+679,Ross County,Scotland
+672,Hamilton Academical,Scotland
+28,Milton Keynes Dons,England
+197,Oxford,England
+203,Lincoln City,England
+176,Crewe,England
+16,Sunderland,England
+169,Portsmouth,England
+5955,AFC Wimbledon,England
+191,Gillingham,England
+165,Ipswich,England
+258,Cheltenham,England
+2157,Accrington,England
+3936,Fleetwood,England
+92,Bolton,England
+910,Doncaster,England
+193,Cambridge U,England
+212,Plymouth,England
+918,Morecambe,England
+207,Shrewsbury,England
+1786,Burton,England
+316,Northampton,England
+159,Swindon,England
+185,Bristol Rovers,England
+202,Rochdale,England
+208,Southend,England
+141,Tranmere,England
+91,Port Vale,England
+10616,Salford City,England
+99,Mansfield,England
+97,Leyton Orient,England
+5952,Sutton United,England
+322,Carlisle,England
+186,Scunthorpe,England
+1974,Harrogate Town,England
+98,Exeter,England
+22,Bradford,England
+1394,Newport,Wales
+989,Forest Green,England
+1994,Crawley,England
+173,Walsall,England
+195,Colchester,England
+209,Hartlepool,England
+990,Stevenage,England
+190,Oldham,England
+1383,Barrow,England
+164,Grimsby,England
+205,Macclesfield,England
+905,River Plate,Argentina
+1746,Arsenal Sarandi,Argentina
+907,Argentinos Juniors,Argentina
+898,Huracan,Argentina
+893,Talleres,Argentina
+889,Boca Juniors,Argentina
+9310,Patronato de Parana,Argentina
+4735,Tigre,Argentina
+896,Gimnasia LP,Argentina
+9627,Central Cordoba de Santiago,Argentina
+9603,Barracas Central,Argentina
+6148,Atletico Tucuman,Argentina
+906,San Lorenzo,Argentina
+890,Racing Club,Argentina
+903,Rosario Central,Argentina
+902,Newell's Old Boys,Argentina
+9151,Sarmiento,Argentina
+6145,Aldosivi,Argentina
+3802,Godoy Cruz,Argentina
+5886,Club Atletico Platense,Argentina
+892,Union,Argentina
+895,Velez Sarsfield,Argentina
+1303,Banfield,Argentina
+897,Independiente,Argentina
+891,Colon,Argentina
+899,Lanus,Argentina
+901,Estudiantes,Argentina
+6147,Defensa y Justicia,Argentina
+260,Sporting Charleroi,Belgium
+237,KV Mechelen,Belgium
+231,Gent,Belgium
+140,Genk,Belgium
+2165,Oostende,Belgium
+2166,Eupen,Belgium
+2164,Zulte Waregem,Belgium
+885,Cercle Bruges,Belgium
+124,Club Bruges,Belgium
+752,Royal Antwerp,Belgium
+23686,Beerschot,Belgium
+1406,OH Leuven,Belgium
+261,Standard Liege,Belgium
+10310,Royal Excel Mouscron,Belgium
+239,St.Truiden,Belgium
+2646,SK Beveren,Belgium
+240,Anderlecht,Belgium
+886,Kortrijk,Belgium
+4852,FC Heidenheim,Germany
+48,Hansa Rostock,Germany
+3882,Sandhausen,Germany
+1147,Darmstadt,Germany
+112,Karlsruher SC,Germany
+1143,Jahn Regensburg,Germany
+283,St. Pauli,Germany
+1206,Holstein Kiel,Germany
+38,Hamburger SV,Germany
+813,Erzgebirge Aue,Germany
+1731,Dynamo Dresden,Germany
+110,Hannover 96,Germany
+3429,Ingolstadt,Germany
+137,Nuernberg,Germany
+757,Osnabrueck,Germany
+5634,Wuerzburger Kickers,Germany
+1138,Eintracht Braunschweig,Germany
+800,Wehen Wiesbaden,Germany
+361,Salzburg,Austria
+1706,Shakhtar Donetsk,Ukraine
+350,Dynamo Kyiv,Ukraine
+587,BSC Young Boys,Switzerland
+2097,FC Sheriff,Moldova
+493,Malmoe FF,Sweden
+843,Olympiacos,Greece
+395,FC Midtjylland,Denmark
+994,Ferencvaros,Hungary
+684,Dinamo Zagreb,Croatia
+349,Slavia Prague,Czech Republic
+579,FK Crvena Zvezda,Serbia
+390,Sturm Graz,Austria
+354,Sparta Prague,Czech Republic
+360,Rapid Wien,Austria
+9449,Ludogorets Razgrad,Bulgaria
+1030,Legia Warszawa,Poland
+1,Brondby IF,Denmark
+842,AEK Athens,Greece
+1268,Maccabi Tel Aviv,Israel
+365,LASK,Austria
+1275,CSKA Sofia,Bulgaria
+841,Slovan Liberec,Czech Republic
+441,Molde,Norway
+2576,CFR Cluj,Romania
+1527,Lech Poznan,Poland
+2121,Wolfsberger AC,Austria
+1306,Hapoel Beer Sheva,Israel
+730,Rijeka,Croatia
+1720,Dundalk,Ireland
+724,Omonia Nicosia,Cyprus
+3753,Zorya,Ukraine
+2569,Qarabag FK,Azerbaijan
+851,PAOK Thessaloniki FC,Greece
